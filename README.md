@@ -1,1 +1,1 @@
-![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/src/nmt.png)
+![image](https://github.com/lianggaoquan/machine-translation/blob/master/src/nmt.png)
